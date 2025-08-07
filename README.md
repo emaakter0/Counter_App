@@ -14,7 +14,7 @@ A simple Flutter counter app with increment, decrement and reset functions.
 - Android/iOS emulator or physical device connected
 ### Steps:
 1. Open this project folder in terminal/command prompt
-2. Run this command: ```bash and flutter run
+2. Run this command:flutter run
 
 
 
